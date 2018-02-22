@@ -20,21 +20,21 @@ html {
 
 body {
   margin: 0;
+  text-align: left;
 }
 
 header {
   background-color: #e2e2e2;
 }
 
-h1 {
-  text-align: left;
-  display: inline-block;
-}
-
 ul {
   display: inline-block;
   list-style-type: none;
   padding: 0;
+}
+
+nav {
+  text-align: center;
 }
 
 li {
