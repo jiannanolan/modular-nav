@@ -22,7 +22,20 @@ body {
   margin: 0;
 }
 
-Typefaces: sans-serif
-Gridifier settings: defaults
-Typografier settings: defaults
-Colours: #e2e2e2, #0074d9
+header {
+  background-color: #e2e2e2;
+}
+
+a {
+  color: #0074d9;
+}
+
+a:hover {
+  background-color: #0074d9;
+  color: #fff;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
